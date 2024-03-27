@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\prtokol 14.exe.config
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\prtokol 14.exe
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\prtokol 14.pdb
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol_14.Form1.resources
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol_14.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.exe
+C:\Users\Admin\Desktop\New folder\ПГПИ\prtokol 14\prtokol 14\obj\Debug\prtokol 14.pdb
